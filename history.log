@@ -14155,3 +14155,4 @@
 2017-03-01 15:02:18 - fix: typo in README
 2017-03-01 13:22:40 - fix: handle empty input gracefully
 2017-03-05 12:12:10 - feat: add logging support
+2017-03-09 16:23:52 - feat: support user sessions
