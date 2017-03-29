@@ -41,3 +41,4 @@
 2017-03-21 09:06:18 - chore: update dependencies
 2017-03-21 19:17:01 - test: add unit tests for nlp module
 2017-03-25 09:52:36 - feat: improve training pipeline
+2017-03-29 12:50:41 - test: extend test coverage
