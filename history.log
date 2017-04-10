@@ -14182,3 +14182,4 @@
 2017-04-10 13:39:57 - docs: add installation guide
 2017-04-10 17:47:58 - fix: typo in README
 2017-04-10 14:24:13 - chore: update dependencies
+2017-04-10 13:29:27 - feat: add logging support
