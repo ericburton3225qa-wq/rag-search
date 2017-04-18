@@ -57,3 +57,4 @@
 2017-04-14 10:17:20 - feat: support user sessions
 2017-04-18 16:17:34 - docs: update usage examples
 2017-04-18 09:05:21 - fix: update response parser
+2017-04-18 12:45:11 - feat: add logging support
