@@ -62,3 +62,4 @@
 2017-04-22 19:40:32 - chore: update dependencies
 2017-04-26 16:57:24 - docs: update usage examples
 2017-04-26 16:08:48 - feat: add initial function
+2017-04-26 13:06:04 - test: add unit tests for nlp module
