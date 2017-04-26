@@ -60,3 +60,4 @@
 2017-04-18 12:45:11 - feat: add logging support
 2017-04-18 16:48:31 - fix: handle empty input gracefully
 2017-04-22 19:40:32 - chore: update dependencies
+2017-04-26 16:57:24 - docs: update usage examples
