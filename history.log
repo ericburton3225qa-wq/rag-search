@@ -94,3 +94,4 @@
 2017-06-05 12:45:58 - feat: improve training pipeline
 2017-06-05 15:36:32 - test: add unit tests for nlp module
 2017-06-09 19:57:59 - chore: update dependencies
+2017-06-09 11:58:08 - refactor: optimize message handling
