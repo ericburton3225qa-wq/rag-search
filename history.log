@@ -14235,3 +14235,4 @@
 2017-06-21 17:24:50 - test: extend test coverage
 2017-06-25 12:11:02 - feat: add initial function
 2017-06-25 16:12:56 - chore: update dependencies
+2017-06-29 09:13:04 - feat: support user sessions
