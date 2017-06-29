@@ -14237,3 +14237,4 @@
 2017-06-25 16:12:56 - chore: update dependencies
 2017-06-29 09:13:04 - feat: support user sessions
 2017-06-29 10:15:30 - fix: update response parser
+2017-06-29 14:12:51 - fix: typo in README
