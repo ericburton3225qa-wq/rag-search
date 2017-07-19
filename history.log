@@ -123,3 +123,4 @@
 2017-07-11 09:56:47 - test: add unit tests for nlp module
 2017-07-15 19:28:15 - fix: typo in README
 2017-07-15 18:24:20 - fix: handle empty input gracefully
+2017-07-19 12:33:48 - feat: support user sessions
