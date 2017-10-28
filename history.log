@@ -197,3 +197,4 @@
 2017-10-27 15:01:09 - chore: update dependencies
 2017-10-27 09:46:41 - feat: support user sessions
 2017-10-27 14:18:21 - test: extend test coverage
+2017-10-27 17:41:13 - fix: update response parser
