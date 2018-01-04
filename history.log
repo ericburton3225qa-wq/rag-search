@@ -249,3 +249,4 @@
 2017-12-26 19:53:31 - refactor: clean up utils
 2017-12-30 17:53:50 - docs: add installation guide
 2018-01-03 20:58:33 - fix: handle empty input gracefully
+2018-01-03 19:16:05 - feat: support user sessions
