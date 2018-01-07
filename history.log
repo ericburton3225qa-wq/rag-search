@@ -251,3 +251,4 @@
 2018-01-03 20:58:33 - fix: handle empty input gracefully
 2018-01-03 19:16:05 - feat: support user sessions
 2018-01-03 18:35:31 - refactor: clean up utils
+2018-01-07 15:43:52 - refactor: optimize message handling
