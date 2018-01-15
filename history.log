@@ -257,3 +257,4 @@
 2018-01-11 13:57:28 - docs: add installation guide
 2018-01-11 17:37:56 - fix: handle empty input gracefully
 2018-01-15 17:00:12 - fix: typo in README
+2018-01-15 15:21:55 - refactor: clean up utils
