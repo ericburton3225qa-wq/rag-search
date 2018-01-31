@@ -272,3 +272,4 @@
 2018-01-31 18:22:54 - chore: update requirements.txt
 2018-01-31 10:47:54 - fix: update response parser
 2018-01-31 19:23:16 - fix: typo in README
+2018-01-31 14:37:50 - feat: support user sessions
