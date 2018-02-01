@@ -269,3 +269,4 @@
 2018-01-23 13:23:53 - test: extend test coverage
 2018-01-27 09:12:34 - fix: update response parser
 2018-01-27 11:12:04 - feat: support user sessions
+2018-01-31 18:22:54 - chore: update requirements.txt
