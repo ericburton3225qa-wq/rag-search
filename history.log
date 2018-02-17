@@ -282,3 +282,4 @@
 2018-02-12 19:31:37 - docs: update usage examples
 2018-02-12 19:47:41 - docs: update usage examples
 2018-02-12 09:06:00 - feat: support user sessions
+2018-02-16 20:48:48 - refactor: optimize message handling
