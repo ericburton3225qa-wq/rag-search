@@ -289,3 +289,4 @@
 2018-02-20 17:55:06 - chore: update requirements.txt
 2018-02-20 16:26:31 - docs: add installation guide
 2018-02-20 18:56:10 - fix: update response parser
+2018-02-20 12:01:20 - feat: add logging support
