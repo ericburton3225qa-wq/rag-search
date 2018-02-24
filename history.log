@@ -291,3 +291,4 @@
 2018-02-20 18:56:10 - fix: update response parser
 2018-02-20 12:01:20 - feat: add logging support
 2018-02-24 14:58:42 - chore: update requirements.txt
+2018-02-24 10:32:33 - fix: handle empty input gracefully
