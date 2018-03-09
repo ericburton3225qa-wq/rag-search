@@ -298,3 +298,4 @@
 2018-02-28 10:14:40 - feat: support user sessions
 2018-03-04 18:12:30 - refactor: optimize message handling
 2018-03-04 10:23:46 - refactor: clean up utils
+2018-03-08 19:34:21 - fix: typo in README
