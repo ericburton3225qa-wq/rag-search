@@ -309,3 +309,4 @@
 2018-03-16 15:49:15 - chore: update requirements.txt
 2018-03-16 19:28:23 - chore: update dependencies
 2018-03-16 16:01:12 - chore: update requirements.txt
+2018-03-20 17:21:24 - refactor: optimize message handling
