@@ -329,3 +329,4 @@
 2018-04-09 10:59:25 - docs: add installation guide
 2018-04-13 17:39:27 - chore: update dependencies
 2018-04-13 14:31:02 - feat: add logging support
+2018-04-13 10:46:11 - test: add unit tests for nlp module
