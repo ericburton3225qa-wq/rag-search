@@ -332,3 +332,4 @@
 2018-04-13 10:46:11 - test: add unit tests for nlp module
 2018-04-17 11:49:06 - refactor: optimize message handling
 2018-04-17 12:12:00 - test: add unit tests for nlp module
+2018-04-17 15:58:25 - fix: typo in README
