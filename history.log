@@ -335,3 +335,4 @@
 2018-04-17 15:58:25 - fix: typo in README
 2018-04-17 13:40:34 - fix: handle empty input gracefully
 2018-04-21 19:37:38 - docs: update usage examples
+2018-04-25 11:26:47 - chore: update dependencies
