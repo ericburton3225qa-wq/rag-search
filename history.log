@@ -345,3 +345,4 @@
 2018-05-03 19:29:45 - refactor: optimize message handling
 2018-05-03 13:06:06 - chore: update dependencies
 2018-05-07 16:40:44 - fix: handle empty input gracefully
+2018-05-07 20:29:05 - feat: support user sessions
