@@ -359,3 +359,4 @@
 2018-05-23 20:04:31 - docs: update usage examples
 2018-05-23 16:42:58 - test: add unit tests for nlp module
 2018-05-23 18:51:07 - refactor: clean up utils
+2018-05-27 16:37:24 - feat: improve training pipeline
