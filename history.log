@@ -365,3 +365,4 @@
 2018-05-31 18:02:15 - docs: update usage examples
 2018-05-31 15:51:18 - chore: update requirements.txt
 2018-06-04 14:19:15 - test: add unit tests for nlp module
+2018-06-04 14:02:32 - fix: update response parser
