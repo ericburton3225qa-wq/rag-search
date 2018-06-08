@@ -367,3 +367,4 @@
 2018-06-04 14:19:15 - test: add unit tests for nlp module
 2018-06-04 14:02:32 - fix: update response parser
 2018-06-04 17:01:40 - refactor: optimize message handling
+2018-06-08 14:24:48 - test: extend test coverage
