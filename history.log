@@ -375,3 +375,4 @@
 2018-06-12 10:33:18 - feat: improve training pipeline
 2018-06-12 17:31:00 - refactor: optimize message handling
 2018-06-12 18:39:15 - fix: handle empty input gracefully
+2018-06-16 18:23:23 - docs: add installation guide
