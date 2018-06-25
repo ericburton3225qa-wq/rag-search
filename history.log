@@ -381,3 +381,4 @@
 2018-06-20 13:56:10 - feat: support user sessions
 2018-06-20 14:34:35 - test: add unit tests for nlp module
 2018-06-20 15:14:19 - feat: add initial function
+2018-06-24 20:38:28 - fix: typo in README
