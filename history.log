@@ -413,3 +413,4 @@
 2018-08-03 11:13:33 - refactor: clean up utils
 2018-08-07 17:11:36 - test: extend test coverage
 2018-08-07 16:18:58 - fix: handle empty input gracefully
+2018-08-07 10:15:10 - feat: improve training pipeline
