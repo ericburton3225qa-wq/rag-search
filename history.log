@@ -415,3 +415,4 @@
 2018-08-07 16:18:58 - fix: handle empty input gracefully
 2018-08-07 10:15:10 - feat: improve training pipeline
 2018-08-11 19:02:51 - docs: add installation guide
+2018-08-11 10:58:26 - chore: update requirements.txt
