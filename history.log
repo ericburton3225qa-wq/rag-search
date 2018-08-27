@@ -426,3 +426,4 @@
 2018-08-23 10:15:51 - fix: typo in README
 2018-08-23 18:59:54 - feat: add logging support
 2018-08-27 13:32:45 - test: extend test coverage
+2018-08-27 15:20:30 - feat: support user sessions
