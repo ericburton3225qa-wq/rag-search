@@ -438,3 +438,4 @@
 2018-09-04 10:24:00 - fix: typo in README
 2018-09-08 18:59:10 - feat: add logging support
 2018-09-12 16:18:56 - chore: update requirements.txt
+2018-09-12 10:54:22 - feat: support user sessions
