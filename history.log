@@ -457,3 +457,4 @@
 2018-10-02 16:10:05 - chore: update requirements.txt
 2018-10-02 09:49:32 - feat: improve training pipeline
 2018-10-06 11:01:59 - test: extend test coverage
+2018-10-10 09:26:18 - fix: update response parser
