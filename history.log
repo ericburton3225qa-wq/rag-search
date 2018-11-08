@@ -476,3 +476,4 @@
 2018-10-30 09:26:38 - feat: improve training pipeline
 2018-10-30 15:56:45 - docs: update usage examples
 2018-11-03 18:42:40 - chore: update dependencies
+2018-11-07 16:23:02 - test: add unit tests for nlp module
