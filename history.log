@@ -485,3 +485,4 @@
 2018-11-15 12:27:20 - test: extend test coverage
 2018-11-15 18:09:09 - refactor: clean up utils
 2018-11-15 15:47:58 - fix: typo in README
+2018-11-19 10:23:17 - test: add unit tests for nlp module
