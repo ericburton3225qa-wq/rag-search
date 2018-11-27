@@ -496,3 +496,4 @@
 2018-11-27 19:55:52 - feat: add logging support
 2018-11-27 11:22:10 - feat: support user sessions
 2018-11-27 13:30:16 - refactor: clean up utils
+2018-11-27 09:35:10 - chore: update requirements.txt
