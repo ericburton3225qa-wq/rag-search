@@ -501,3 +501,4 @@
 2018-12-01 15:39:37 - chore: update dependencies
 2018-12-05 12:42:05 - fix: handle empty input gracefully
 2018-12-05 12:13:02 - docs: add installation guide
+2018-12-05 14:43:16 - chore: update requirements.txt
