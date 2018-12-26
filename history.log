@@ -514,3 +514,4 @@
 2018-12-21 15:08:17 - refactor: clean up utils
 2018-12-21 20:27:28 - feat: support user sessions
 2018-12-21 16:41:52 - refactor: optimize message handling
+2018-12-25 18:04:26 - test: extend test coverage
