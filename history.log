@@ -523,3 +523,4 @@
 2019-01-02 09:31:22 - test: extend test coverage
 2019-01-06 12:14:46 - docs: add installation guide
 2019-01-06 09:16:36 - docs: add installation guide
+2019-01-10 12:22:40 - fix: update response parser
