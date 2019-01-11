@@ -525,3 +525,4 @@
 2019-01-06 09:16:36 - docs: add installation guide
 2019-01-10 12:22:40 - fix: update response parser
 2019-01-10 14:20:52 - feat: add logging support
+2019-01-10 16:26:15 - chore: update dependencies
