@@ -527,3 +527,4 @@
 2019-01-10 14:20:52 - feat: add logging support
 2019-01-10 16:26:15 - chore: update dependencies
 2019-01-10 19:28:31 - test: extend test coverage
+2019-01-14 09:35:53 - test: add unit tests for nlp module
