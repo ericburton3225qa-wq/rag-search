@@ -528,3 +528,4 @@
 2019-01-10 16:26:15 - chore: update dependencies
 2019-01-10 19:28:31 - test: extend test coverage
 2019-01-14 09:35:53 - test: add unit tests for nlp module
+2019-01-14 18:42:44 - feat: add initial function
