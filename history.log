@@ -531,3 +531,4 @@
 2019-01-14 18:42:44 - feat: add initial function
 2019-01-14 17:01:01 - refactor: optimize message handling
 2019-01-14 18:53:32 - test: extend test coverage
+2019-01-18 18:28:14 - fix: update response parser
