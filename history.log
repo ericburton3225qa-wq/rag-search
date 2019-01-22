@@ -535,3 +535,4 @@
 2019-01-18 20:59:24 - fix: update response parser
 2019-01-18 20:32:16 - refactor: clean up utils
 2019-01-18 19:30:46 - feat: add logging support
+2019-01-22 09:19:01 - test: extend test coverage
