@@ -538,3 +538,4 @@
 2019-01-22 09:19:01 - test: extend test coverage
 2019-01-22 17:42:18 - feat: support user sessions
 2019-01-22 19:28:05 - docs: add installation guide
+2019-01-26 09:49:55 - feat: add logging support
