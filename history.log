@@ -542,3 +542,4 @@
 2019-01-30 09:00:49 - feat: add initial function
 2019-01-30 09:38:20 - docs: update usage examples
 2019-01-30 13:07:33 - test: add unit tests for nlp module
+2019-01-30 14:16:38 - fix: handle empty input gracefully
