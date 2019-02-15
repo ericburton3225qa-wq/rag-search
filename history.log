@@ -554,3 +554,4 @@
 2019-02-11 12:15:53 - fix: update response parser
 2019-02-15 18:18:55 - refactor: clean up utils
 2019-02-15 20:40:03 - chore: update dependencies
+2019-02-15 14:35:13 - test: extend test coverage
