@@ -557,3 +557,4 @@
 2019-02-15 14:35:13 - test: extend test coverage
 2019-02-19 11:54:03 - docs: add installation guide
 2019-02-19 13:01:09 - test: add unit tests for nlp module
+2019-02-19 17:11:18 - chore: update dependencies
