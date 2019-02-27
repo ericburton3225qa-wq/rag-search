@@ -562,3 +562,4 @@
 2019-02-23 17:43:36 - docs: update usage examples
 2019-02-23 20:05:41 - fix: typo in README
 2019-02-27 10:40:43 - docs: add installation guide
+2019-02-27 12:30:28 - fix: handle empty input gracefully
