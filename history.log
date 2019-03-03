@@ -564,3 +564,4 @@
 2019-02-27 10:40:43 - docs: add installation guide
 2019-02-27 12:30:28 - fix: handle empty input gracefully
 2019-02-27 13:01:05 - chore: update requirements.txt
+2019-03-03 10:12:42 - refactor: clean up utils
