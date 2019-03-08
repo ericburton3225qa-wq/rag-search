@@ -566,3 +566,4 @@
 2019-02-27 13:01:05 - chore: update requirements.txt
 2019-03-03 10:12:42 - refactor: clean up utils
 2019-03-07 18:01:38 - fix: update response parser
+2019-03-07 17:48:38 - fix: typo in README
