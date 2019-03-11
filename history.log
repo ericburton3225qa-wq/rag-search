@@ -569,3 +569,4 @@
 2019-03-07 17:48:38 - fix: typo in README
 2019-03-07 15:37:40 - test: extend test coverage
 2019-03-11 18:43:27 - feat: improve training pipeline
+2019-03-11 11:27:17 - fix: handle empty input gracefully
