@@ -575,3 +575,4 @@
 2019-03-15 17:47:03 - refactor: optimize message handling
 2019-03-15 17:23:37 - fix: update response parser
 2019-03-15 19:27:10 - feat: add logging support
+2019-03-15 15:34:20 - test: add unit tests for nlp module
