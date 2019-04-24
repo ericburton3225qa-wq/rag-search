@@ -605,3 +605,4 @@
 2019-04-20 14:20:28 - feat: improve training pipeline
 2019-04-20 18:47:33 - feat: add initial function
 2019-04-24 14:08:14 - refactor: clean up utils
+2019-04-24 10:27:24 - fix: update response parser
