@@ -609,3 +609,4 @@
 2019-04-24 11:07:18 - docs: add installation guide
 2019-04-24 11:56:18 - chore: update dependencies
 2019-04-28 18:58:37 - fix: typo in README
+2019-04-28 12:36:05 - fix: update response parser
