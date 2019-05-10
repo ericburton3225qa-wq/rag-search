@@ -619,3 +619,4 @@
 2019-05-06 10:19:55 - test: extend test coverage
 2019-05-10 14:26:21 - feat: add logging support
 2019-05-10 11:14:25 - test: extend test coverage
+2019-05-10 16:29:13 - fix: handle empty input gracefully
