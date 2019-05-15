@@ -622,3 +622,4 @@
 2019-05-10 16:29:13 - fix: handle empty input gracefully
 2019-05-10 11:49:50 - docs: update usage examples
 2019-05-14 16:06:20 - feat: improve training pipeline
+2019-05-14 18:43:07 - feat: add logging support
