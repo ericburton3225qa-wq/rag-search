@@ -624,3 +624,4 @@
 2019-05-14 16:06:20 - feat: improve training pipeline
 2019-05-14 18:43:07 - feat: add logging support
 2019-05-14 12:29:44 - fix: update response parser
+2019-05-18 15:38:54 - chore: update requirements.txt
