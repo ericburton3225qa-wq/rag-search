@@ -628,3 +628,4 @@
 2019-05-22 18:51:17 - fix: update response parser
 2019-05-22 18:01:48 - docs: update usage examples
 2019-05-22 18:20:14 - test: add unit tests for nlp module
+2019-05-26 14:31:10 - test: add unit tests for nlp module
