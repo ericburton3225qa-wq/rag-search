@@ -642,3 +642,4 @@
 2019-06-07 13:33:12 - fix: handle empty input gracefully
 2019-06-11 14:51:35 - chore: update requirements.txt
 2019-06-11 18:03:59 - test: add unit tests for nlp module
+2019-06-11 11:56:22 - docs: add installation guide
