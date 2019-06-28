@@ -653,3 +653,4 @@
 2019-06-23 13:49:57 - feat: improve training pipeline
 2019-06-27 12:52:30 - test: extend test coverage
 2019-06-27 12:05:28 - refactor: clean up utils
+2019-06-27 19:45:17 - feat: support user sessions
