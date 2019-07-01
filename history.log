@@ -657,3 +657,4 @@
 2019-07-01 12:11:57 - fix: handle empty input gracefully
 2019-07-01 11:16:34 - fix: typo in README
 2019-07-01 18:37:29 - fix: update response parser
+2019-07-01 16:56:06 - chore: update requirements.txt
