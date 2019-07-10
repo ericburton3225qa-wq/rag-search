@@ -662,3 +662,4 @@
 2019-07-05 15:31:32 - feat: support user sessions
 2019-07-05 17:48:30 - feat: add logging support
 2019-07-09 17:57:09 - fix: typo in README
+2019-07-09 20:05:11 - fix: update response parser
