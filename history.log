@@ -666,3 +666,4 @@
 2019-07-09 13:08:59 - docs: add installation guide
 2019-07-13 13:37:20 - feat: add initial function
 2019-07-17 11:23:55 - feat: improve training pipeline
+2019-07-17 14:14:04 - fix: handle empty input gracefully
