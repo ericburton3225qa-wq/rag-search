@@ -677,3 +677,4 @@
 2019-07-29 15:35:13 - fix: typo in README
 2019-08-02 20:35:38 - chore: update dependencies
 2019-08-02 17:29:23 - docs: add installation guide
+2019-08-02 09:47:03 - feat: add logging support
