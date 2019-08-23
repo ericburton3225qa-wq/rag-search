@@ -689,3 +689,4 @@
 2019-08-18 12:05:10 - docs: add installation guide
 2019-08-18 13:23:39 - docs: add installation guide
 2019-08-22 13:23:28 - fix: typo in README
+2019-08-22 18:15:45 - test: add unit tests for nlp module
