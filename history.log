@@ -705,3 +705,4 @@
 2019-09-03 13:47:35 - fix: typo in README
 2019-09-07 18:22:20 - fix: typo in README
 2019-09-11 20:24:27 - feat: support user sessions
+2019-09-11 12:55:43 - fix: update response parser
