@@ -708,3 +708,4 @@
 2019-09-11 12:55:43 - fix: update response parser
 2019-09-11 10:45:46 - docs: add installation guide
 2019-09-15 17:41:29 - refactor: clean up utils
+2019-09-19 09:06:28 - test: add unit tests for nlp module
