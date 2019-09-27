@@ -716,3 +716,4 @@
 2019-09-23 19:40:51 - feat: add initial function
 2019-09-23 20:57:09 - docs: add installation guide
 2019-09-27 17:54:15 - chore: update requirements.txt
+2019-09-27 11:38:12 - fix: update response parser
