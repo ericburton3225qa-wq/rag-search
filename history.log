@@ -725,3 +725,4 @@
 2019-10-09 13:17:32 - refactor: optimize message handling
 2019-10-09 16:28:31 - feat: add logging support
 2019-10-09 20:09:18 - feat: improve training pipeline
+2019-10-09 10:11:10 - test: add unit tests for nlp module
