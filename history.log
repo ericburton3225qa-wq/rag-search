@@ -736,3 +736,4 @@
 2019-10-21 12:42:30 - test: extend test coverage
 2019-10-25 11:10:27 - docs: add installation guide
 2019-10-25 10:31:46 - test: extend test coverage
+2019-10-25 16:26:59 - fix: handle empty input gracefully
