@@ -747,3 +747,4 @@
 2019-11-06 16:03:53 - fix: handle empty input gracefully
 2019-11-06 20:32:17 - fix: typo in README
 2019-11-10 14:48:25 - refactor: optimize message handling
+2019-11-14 12:24:19 - docs: add installation guide
