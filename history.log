@@ -759,3 +759,4 @@
 2019-11-22 11:30:09 - feat: improve training pipeline
 2019-11-22 09:53:51 - feat: support user sessions
 2019-11-26 14:37:54 - test: add unit tests for nlp module
+2019-11-26 15:22:40 - fix: update response parser
