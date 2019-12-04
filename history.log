@@ -763,3 +763,4 @@
 2019-11-26 16:37:40 - test: add unit tests for nlp module
 2019-11-26 14:17:58 - refactor: clean up utils
 2019-11-30 16:36:39 - test: extend test coverage
+2019-12-04 11:47:44 - chore: update dependencies
