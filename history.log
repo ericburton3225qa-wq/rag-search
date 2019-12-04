@@ -764,3 +764,4 @@
 2019-11-26 14:17:58 - refactor: clean up utils
 2019-11-30 16:36:39 - test: extend test coverage
 2019-12-04 11:47:44 - chore: update dependencies
+2019-12-04 11:54:40 - feat: support user sessions
