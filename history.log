@@ -767,3 +767,4 @@
 2019-12-04 11:54:40 - feat: support user sessions
 2019-12-04 09:54:08 - refactor: optimize message handling
 2019-12-04 20:27:03 - test: add unit tests for nlp module
+2019-12-08 19:25:44 - refactor: optimize message handling
