@@ -794,3 +794,4 @@
 2020-01-09 13:38:14 - feat: support user sessions
 2020-01-09 19:35:19 - fix: update response parser
 2020-01-09 12:05:06 - docs: update usage examples
+2020-01-09 14:55:58 - feat: improve training pipeline
