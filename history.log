@@ -812,3 +812,4 @@
 2020-01-29 18:32:26 - refactor: clean up utils
 2020-01-29 13:01:44 - chore: update dependencies
 2020-01-29 17:50:02 - fix: update response parser
+2020-01-29 17:46:35 - feat: add logging support
