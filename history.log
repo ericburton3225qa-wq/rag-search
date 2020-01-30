@@ -809,3 +809,4 @@
 2020-01-21 09:09:33 - chore: update requirements.txt
 2020-01-25 10:00:25 - fix: typo in README
 2020-01-25 20:25:56 - chore: update dependencies
+2020-01-29 18:32:26 - refactor: clean up utils
