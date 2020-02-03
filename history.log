@@ -813,3 +813,4 @@
 2020-01-29 13:01:44 - chore: update dependencies
 2020-01-29 17:50:02 - fix: update response parser
 2020-01-29 17:46:35 - feat: add logging support
+2020-02-02 17:58:35 - test: add unit tests for nlp module
