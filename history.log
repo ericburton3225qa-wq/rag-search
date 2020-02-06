@@ -816,3 +816,4 @@
 2020-02-02 17:58:35 - test: add unit tests for nlp module
 2020-02-06 14:17:33 - fix: handle empty input gracefully
 2020-02-06 18:54:08 - test: extend test coverage
+2020-02-06 11:55:59 - chore: update requirements.txt
