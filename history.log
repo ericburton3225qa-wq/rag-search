@@ -826,3 +826,4 @@
 2020-02-14 17:48:23 - refactor: clean up utils
 2020-02-14 13:23:59 - fix: handle empty input gracefully
 2020-02-18 13:18:22 - test: extend test coverage
+2020-02-18 18:05:15 - fix: handle empty input gracefully
