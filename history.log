@@ -837,3 +837,4 @@
 2020-02-26 16:54:51 - chore: update requirements.txt
 2020-03-01 13:07:56 - chore: update requirements.txt
 2020-03-01 10:04:47 - feat: improve training pipeline
+2020-03-05 15:09:26 - feat: add logging support
