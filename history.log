@@ -840,3 +840,4 @@
 2020-03-05 15:09:26 - feat: add logging support
 2020-03-05 13:27:23 - feat: improve training pipeline
 2020-03-05 16:06:03 - fix: handle empty input gracefully
+2020-03-09 16:48:29 - fix: typo in README
