@@ -849,3 +849,4 @@
 2020-03-17 17:58:42 - fix: handle empty input gracefully
 2020-03-17 13:02:11 - feat: add initial function
 2020-03-17 12:12:35 - docs: add installation guide
+2020-03-21 14:35:00 - fix: update response parser
