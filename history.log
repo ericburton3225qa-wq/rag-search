@@ -857,3 +857,4 @@
 2020-03-25 20:10:50 - feat: add logging support
 2020-03-29 19:40:20 - feat: improve training pipeline
 2020-03-29 12:48:08 - fix: update response parser
+2020-04-02 20:10:16 - feat: add initial function
