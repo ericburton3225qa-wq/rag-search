@@ -865,3 +865,4 @@
 2020-04-06 13:04:57 - feat: improve training pipeline
 2020-04-06 19:17:03 - fix: update response parser
 2020-04-10 15:40:33 - feat: support user sessions
+2020-04-10 14:00:01 - test: add unit tests for nlp module
