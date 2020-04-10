@@ -867,3 +867,4 @@
 2020-04-10 15:40:33 - feat: support user sessions
 2020-04-10 14:00:01 - test: add unit tests for nlp module
 2020-04-10 18:02:20 - refactor: clean up utils
+2020-04-10 16:49:38 - test: extend test coverage
