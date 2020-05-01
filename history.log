@@ -879,3 +879,4 @@
 2020-04-22 10:45:57 - docs: add installation guide
 2020-04-26 14:12:23 - docs: update usage examples
 2020-04-26 11:48:17 - test: extend test coverage
+2020-04-30 19:05:43 - feat: add logging support
