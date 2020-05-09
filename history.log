@@ -888,3 +888,4 @@
 2020-05-04 16:52:59 - chore: update requirements.txt
 2020-05-04 09:00:17 - test: extend test coverage
 2020-05-08 14:47:17 - fix: update response parser
+2020-05-08 18:08:00 - fix: typo in README
