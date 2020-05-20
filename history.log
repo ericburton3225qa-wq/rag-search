@@ -896,3 +896,4 @@
 2020-05-12 17:31:15 - feat: add initial function
 2020-05-16 15:36:45 - test: add unit tests for nlp module
 2020-05-16 17:10:56 - fix: update response parser
+2020-05-20 16:35:43 - fix: typo in README
