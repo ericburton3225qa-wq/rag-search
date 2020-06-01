@@ -906,3 +906,4 @@
 2020-05-28 13:23:09 - docs: update usage examples
 2020-06-01 19:52:26 - test: add unit tests for nlp module
 2020-06-01 14:22:45 - feat: improve training pipeline
+2020-06-01 15:14:39 - feat: add initial function
