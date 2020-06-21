@@ -919,3 +919,4 @@
 2020-06-17 20:52:03 - fix: handle empty input gracefully
 2020-06-17 13:51:21 - fix: typo in README
 2020-06-21 17:06:31 - fix: typo in README
+2020-06-21 15:56:10 - test: extend test coverage
