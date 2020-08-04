@@ -953,3 +953,4 @@
 2020-08-04 10:53:20 - refactor: clean up utils
 2020-08-04 13:34:17 - docs: update usage examples
 2020-08-04 09:18:19 - fix: typo in README
+2020-08-04 09:32:27 - test: extend test coverage
