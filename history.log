@@ -963,3 +963,4 @@
 2020-08-20 10:54:38 - docs: update usage examples
 2020-08-20 17:49:08 - fix: handle empty input gracefully
 2020-08-24 15:42:43 - chore: update requirements.txt
+2020-08-24 16:21:40 - feat: add initial function
