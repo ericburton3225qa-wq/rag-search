@@ -965,3 +965,4 @@
 2020-08-24 15:42:43 - chore: update requirements.txt
 2020-08-24 16:21:40 - feat: add initial function
 2020-08-24 13:07:34 - feat: add logging support
+2020-08-28 16:32:58 - test: add unit tests for nlp module
