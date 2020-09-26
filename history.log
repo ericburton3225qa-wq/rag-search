@@ -986,3 +986,4 @@
 2020-09-21 10:25:42 - refactor: clean up utils
 2020-09-21 14:34:58 - feat: improve training pipeline
 2020-09-25 20:27:37 - fix: typo in README
+2020-09-25 18:54:12 - test: add unit tests for nlp module
