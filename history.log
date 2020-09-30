@@ -989,3 +989,4 @@
 2020-09-25 18:54:12 - test: add unit tests for nlp module
 2020-09-25 11:40:50 - fix: handle empty input gracefully
 2020-09-25 11:39:56 - fix: handle empty input gracefully
+2020-09-29 20:15:23 - feat: add logging support
