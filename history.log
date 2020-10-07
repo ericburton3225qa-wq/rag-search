@@ -998,3 +998,4 @@
 2020-10-07 11:12:42 - refactor: clean up utils
 2020-10-07 17:41:40 - feat: add initial function
 2020-10-07 13:41:59 - test: extend test coverage
+2020-10-07 14:09:05 - fix: handle empty input gracefully
