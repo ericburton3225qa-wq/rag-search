@@ -1004,3 +1004,4 @@
 2020-10-15 15:43:17 - test: add unit tests for nlp module
 2020-10-15 19:43:12 - refactor: clean up utils
 2020-10-15 13:58:31 - chore: update dependencies
+2020-10-19 19:40:49 - feat: add initial function
