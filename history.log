@@ -1014,3 +1014,4 @@
 2020-10-27 10:17:18 - docs: add installation guide
 2020-10-27 09:06:29 - test: add unit tests for nlp module
 2020-10-31 09:54:44 - refactor: clean up utils
+2020-11-04 10:01:47 - feat: add initial function
