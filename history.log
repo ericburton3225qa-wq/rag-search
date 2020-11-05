@@ -1015,3 +1015,4 @@
 2020-10-27 09:06:29 - test: add unit tests for nlp module
 2020-10-31 09:54:44 - refactor: clean up utils
 2020-11-04 10:01:47 - feat: add initial function
+2020-11-04 19:46:22 - feat: improve training pipeline
