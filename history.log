@@ -1045,3 +1045,4 @@
 2020-12-14 18:35:10 - fix: update response parser
 2020-12-14 16:50:20 - chore: update dependencies
 2020-12-14 19:18:47 - feat: add initial function
+2020-12-18 16:03:51 - refactor: clean up utils
