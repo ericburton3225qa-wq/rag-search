@@ -1047,3 +1047,4 @@
 2020-12-14 19:18:47 - feat: add initial function
 2020-12-18 16:03:51 - refactor: clean up utils
 2020-12-18 10:35:42 - test: extend test coverage
+2020-12-18 18:20:27 - feat: support user sessions
