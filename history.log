@@ -1053,3 +1053,4 @@
 2020-12-22 10:09:56 - docs: add installation guide
 2020-12-22 18:38:25 - refactor: optimize message handling
 2020-12-26 13:36:19 - chore: update dependencies
+2020-12-26 14:23:18 - test: add unit tests for nlp module
