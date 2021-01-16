@@ -1069,3 +1069,4 @@
 2021-01-15 13:36:47 - chore: update dependencies
 2021-01-15 11:52:33 - feat: improve training pipeline
 2021-01-15 15:16:20 - docs: add installation guide
+2021-01-15 16:19:36 - feat: support user sessions
