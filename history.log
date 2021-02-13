@@ -1087,3 +1087,4 @@
 2021-02-08 10:41:22 - feat: add logging support
 2021-02-08 12:11:15 - chore: update dependencies
 2021-02-12 16:29:56 - test: extend test coverage
+2021-02-12 17:05:40 - fix: handle empty input gracefully
