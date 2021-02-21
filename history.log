@@ -1094,3 +1094,4 @@
 2021-02-16 11:08:58 - test: add unit tests for nlp module
 2021-02-16 13:27:44 - test: add unit tests for nlp module
 2021-02-20 10:09:58 - docs: update usage examples
+2021-02-20 18:42:38 - feat: support user sessions
