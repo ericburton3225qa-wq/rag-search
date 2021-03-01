@@ -1099,3 +1099,4 @@
 2021-02-24 13:25:24 - feat: add logging support
 2021-02-24 12:34:42 - docs: update usage examples
 2021-02-24 09:56:50 - test: add unit tests for nlp module
+2021-02-28 17:13:38 - chore: update dependencies
