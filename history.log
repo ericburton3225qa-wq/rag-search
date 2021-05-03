@@ -1145,3 +1145,4 @@
 2021-04-29 13:34:43 - fix: typo in README
 2021-05-03 09:55:38 - test: extend test coverage
 2021-05-03 11:43:22 - docs: update usage examples
+2021-05-03 16:31:44 - refactor: clean up utils
