@@ -1158,3 +1158,4 @@
 2021-05-19 15:33:28 - feat: support user sessions
 2021-05-19 17:19:09 - test: add unit tests for nlp module
 2021-05-19 12:47:29 - feat: add initial function
+2021-05-19 19:29:02 - feat: add logging support
