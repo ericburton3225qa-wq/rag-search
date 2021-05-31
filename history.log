@@ -1167,3 +1167,4 @@
 2021-05-31 20:13:18 - test: add unit tests for nlp module
 2021-05-31 17:35:55 - feat: add logging support
 2021-05-31 10:31:43 - fix: update response parser
+2021-05-31 10:55:31 - docs: add installation guide
