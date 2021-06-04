@@ -1169,3 +1169,4 @@
 2021-05-31 10:31:43 - fix: update response parser
 2021-05-31 10:55:31 - docs: add installation guide
 2021-06-04 15:00:09 - fix: handle empty input gracefully
+2021-06-04 13:45:04 - docs: update usage examples
