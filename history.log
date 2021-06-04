@@ -1170,3 +1170,4 @@
 2021-05-31 10:55:31 - docs: add installation guide
 2021-06-04 15:00:09 - fix: handle empty input gracefully
 2021-06-04 13:45:04 - docs: update usage examples
+2021-06-04 14:17:06 - feat: support user sessions
