@@ -1172,3 +1172,4 @@
 2021-06-04 13:45:04 - docs: update usage examples
 2021-06-04 14:17:06 - feat: support user sessions
 2021-06-04 14:41:17 - refactor: optimize message handling
+2021-06-08 17:34:09 - refactor: clean up utils
