@@ -1194,3 +1194,4 @@
 2021-07-02 18:00:36 - docs: update usage examples
 2021-07-06 15:05:06 - chore: update dependencies
 2021-07-06 11:47:30 - feat: add logging support
+2021-07-06 14:16:02 - refactor: optimize message handling
