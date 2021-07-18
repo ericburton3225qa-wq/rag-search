@@ -1200,3 +1200,4 @@
 2021-07-14 14:26:30 - fix: update response parser
 2021-07-14 19:52:58 - docs: add installation guide
 2021-07-14 11:20:49 - docs: add installation guide
+2021-07-18 09:39:33 - fix: handle empty input gracefully
