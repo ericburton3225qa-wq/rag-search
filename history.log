@@ -1208,3 +1208,4 @@
 2021-07-26 17:27:17 - refactor: clean up utils
 2021-07-26 20:00:35 - chore: update requirements.txt
 2021-07-26 14:53:36 - docs: add installation guide
+2021-07-26 17:25:21 - feat: improve training pipeline
