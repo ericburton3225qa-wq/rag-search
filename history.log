@@ -1212,3 +1212,4 @@
 2021-07-30 15:58:00 - feat: improve training pipeline
 2021-07-30 17:42:26 - fix: update response parser
 2021-07-30 12:24:56 - feat: add logging support
+2021-07-30 15:08:19 - fix: handle empty input gracefully
