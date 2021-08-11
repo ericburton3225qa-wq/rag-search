@@ -1221,3 +1221,4 @@
 2021-08-11 11:05:51 - refactor: optimize message handling
 2021-08-11 12:55:16 - fix: update response parser
 2021-08-11 09:35:45 - feat: support user sessions
+2021-08-11 15:07:44 - docs: update usage examples
