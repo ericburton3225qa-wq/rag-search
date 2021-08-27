@@ -1231,3 +1231,4 @@
 2021-08-23 15:05:23 - refactor: clean up utils
 2021-08-23 16:23:19 - chore: update requirements.txt
 2021-08-27 16:27:51 - feat: add initial function
+2021-08-27 09:33:40 - feat: add logging support
