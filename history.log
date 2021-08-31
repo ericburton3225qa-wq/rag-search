@@ -1234,3 +1234,4 @@
 2021-08-27 09:33:40 - feat: add logging support
 2021-08-27 11:03:19 - test: extend test coverage
 2021-08-31 14:45:56 - fix: typo in README
+2021-08-31 11:21:31 - feat: support user sessions
