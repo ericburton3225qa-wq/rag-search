@@ -1242,3 +1242,4 @@
 2021-09-08 20:21:30 - chore: update requirements.txt
 2021-09-08 14:28:47 - test: extend test coverage
 2021-09-08 10:20:23 - docs: update usage examples
+2021-09-12 19:21:39 - test: add unit tests for nlp module
