@@ -1249,3 +1249,4 @@
 2021-09-16 17:23:26 - docs: add installation guide
 2021-09-20 11:42:34 - test: add unit tests for nlp module
 2021-09-20 18:54:08 - docs: update usage examples
+2021-09-20 18:30:45 - test: add unit tests for nlp module
