@@ -1254,3 +1254,4 @@
 2021-09-24 13:22:22 - fix: update response parser
 2021-09-24 14:20:43 - refactor: clean up utils
 2021-09-24 18:50:13 - feat: add initial function
+2021-09-24 19:06:52 - feat: add logging support
