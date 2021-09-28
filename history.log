@@ -1256,3 +1256,4 @@
 2021-09-24 18:50:13 - feat: add initial function
 2021-09-24 19:06:52 - feat: add logging support
 2021-09-28 12:41:00 - feat: add logging support
+2021-09-28 11:52:27 - fix: update response parser
