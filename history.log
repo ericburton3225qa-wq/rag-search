@@ -1274,3 +1274,4 @@
 2021-10-18 20:07:22 - test: extend test coverage
 2021-10-22 16:20:41 - test: add unit tests for nlp module
 2021-10-22 10:05:04 - chore: update requirements.txt
+2021-10-22 18:14:52 - feat: add initial function
