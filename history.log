@@ -1285,3 +1285,4 @@
 2021-11-03 17:18:22 - refactor: optimize message handling
 2021-11-03 17:23:23 - feat: add logging support
 2021-11-07 15:32:42 - refactor: optimize message handling
+2021-11-07 20:24:14 - refactor: clean up utils
