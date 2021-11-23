@@ -1296,3 +1296,4 @@
 2021-11-19 11:44:25 - chore: update requirements.txt
 2021-11-19 17:59:29 - docs: update usage examples
 2021-11-19 15:12:05 - test: extend test coverage
+2021-11-23 09:23:03 - feat: support user sessions
