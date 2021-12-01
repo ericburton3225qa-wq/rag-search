@@ -1302,3 +1302,4 @@
 2021-11-27 15:10:05 - chore: update dependencies
 2021-12-01 20:06:00 - fix: typo in README
 2021-12-01 12:10:04 - feat: add logging support
+2021-12-01 13:21:27 - test: add unit tests for nlp module
