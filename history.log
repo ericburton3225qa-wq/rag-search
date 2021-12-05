@@ -1303,3 +1303,4 @@
 2021-12-01 20:06:00 - fix: typo in README
 2021-12-01 12:10:04 - feat: add logging support
 2021-12-01 13:21:27 - test: add unit tests for nlp module
+2021-12-05 11:13:58 - feat: add initial function
