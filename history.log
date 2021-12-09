@@ -1306,3 +1306,4 @@
 2021-12-05 11:13:58 - feat: add initial function
 2021-12-09 14:53:11 - fix: typo in README
 2021-12-09 09:10:34 - docs: update usage examples
+2021-12-09 14:51:27 - fix: handle empty input gracefully
