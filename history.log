@@ -1329,3 +1329,4 @@
 2022-01-06 12:15:32 - test: add unit tests for nlp module
 2022-01-10 11:57:06 - docs: update usage examples
 2022-01-10 15:04:17 - fix: handle empty input gracefully
+2022-01-10 16:14:19 - feat: add initial function
