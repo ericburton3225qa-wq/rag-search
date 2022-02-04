@@ -1348,3 +1348,4 @@
 2022-01-30 20:27:08 - refactor: clean up utils
 2022-02-03 11:05:56 - chore: update requirements.txt
 2022-02-03 13:09:02 - feat: add logging support
+2022-02-03 19:55:30 - fix: update response parser
