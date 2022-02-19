@@ -1361,3 +1361,4 @@
 2022-02-15 14:03:41 - fix: typo in README
 2022-02-15 13:28:00 - docs: update usage examples
 2022-02-15 09:00:37 - refactor: optimize message handling
+2022-02-19 11:38:02 - feat: add logging support
