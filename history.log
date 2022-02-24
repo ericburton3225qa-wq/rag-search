@@ -1365,3 +1365,4 @@
 2022-02-19 20:56:40 - refactor: clean up utils
 2022-02-23 18:19:24 - test: extend test coverage
 2022-02-23 15:16:53 - docs: add installation guide
+2022-02-23 17:52:26 - fix: handle empty input gracefully
