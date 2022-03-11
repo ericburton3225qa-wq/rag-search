@@ -1374,3 +1374,4 @@
 2022-03-07 11:28:57 - chore: update dependencies
 2022-03-07 13:53:49 - test: extend test coverage
 2022-03-07 19:38:57 - refactor: clean up utils
+2022-03-11 15:02:02 - test: add unit tests for nlp module
