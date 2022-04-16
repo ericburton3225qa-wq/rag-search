@@ -1400,3 +1400,4 @@
 2022-04-12 17:59:21 - refactor: clean up utils
 2022-04-12 15:10:28 - fix: typo in README
 2022-04-12 11:11:11 - docs: update usage examples
+2022-04-16 11:30:24 - fix: update response parser
