@@ -1422,3 +1422,4 @@
 2022-05-10 10:43:34 - fix: handle empty input gracefully
 2022-05-10 15:29:41 - test: add unit tests for nlp module
 2022-05-14 12:32:25 - refactor: clean up utils
+2022-05-18 15:28:25 - docs: add installation guide
