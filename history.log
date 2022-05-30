@@ -1432,3 +1432,4 @@
 2022-05-26 17:50:35 - fix: handle empty input gracefully
 2022-05-30 16:51:03 - fix: update response parser
 2022-05-30 13:13:05 - fix: typo in README
+2022-05-30 09:38:52 - docs: add installation guide
