@@ -1430,3 +1430,4 @@
 2022-05-26 12:56:58 - fix: handle empty input gracefully
 2022-05-26 19:49:31 - docs: add installation guide
 2022-05-26 17:50:35 - fix: handle empty input gracefully
+2022-05-30 16:51:03 - fix: update response parser
