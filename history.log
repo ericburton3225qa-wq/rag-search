@@ -1437,3 +1437,4 @@
 2022-06-03 09:59:43 - docs: add installation guide
 2022-06-03 13:12:25 - feat: add logging support
 2022-06-03 18:35:36 - feat: add logging support
+2022-06-03 16:15:32 - refactor: optimize message handling
