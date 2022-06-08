@@ -1438,3 +1438,4 @@
 2022-06-03 13:12:25 - feat: add logging support
 2022-06-03 18:35:36 - feat: add logging support
 2022-06-03 16:15:32 - refactor: optimize message handling
+2022-06-07 19:10:51 - feat: support user sessions
