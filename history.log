@@ -1464,3 +1464,4 @@
 2022-07-05 09:56:15 - chore: update dependencies
 2022-07-09 11:52:23 - feat: support user sessions
 2022-07-09 18:25:52 - docs: add installation guide
+2022-07-13 14:41:37 - test: add unit tests for nlp module
