@@ -1497,3 +1497,4 @@
 2022-08-22 14:59:59 - fix: typo in README
 2022-08-22 09:31:48 - fix: handle empty input gracefully
 2022-08-26 13:45:17 - feat: add logging support
+2022-08-26 16:55:55 - refactor: clean up utils
