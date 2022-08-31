@@ -1499,3 +1499,4 @@
 2022-08-26 13:45:17 - feat: add logging support
 2022-08-26 16:55:55 - refactor: clean up utils
 2022-08-26 11:33:40 - test: add unit tests for nlp module
+2022-08-30 20:56:49 - docs: update usage examples
