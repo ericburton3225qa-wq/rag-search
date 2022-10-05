@@ -1524,3 +1524,4 @@
 2022-09-27 09:04:00 - test: add unit tests for nlp module
 2022-10-01 11:11:33 - feat: add logging support
 2022-10-01 18:02:01 - fix: handle empty input gracefully
+2022-10-05 10:55:22 - docs: add installation guide
