@@ -1528,3 +1528,4 @@
 2022-10-05 18:38:38 - docs: update usage examples
 2022-10-05 14:34:15 - docs: add installation guide
 2022-10-05 14:05:04 - test: extend test coverage
+2022-10-09 20:51:38 - test: add unit tests for nlp module
