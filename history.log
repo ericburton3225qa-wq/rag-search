@@ -1530,3 +1530,4 @@
 2022-10-05 14:05:04 - test: extend test coverage
 2022-10-09 20:51:38 - test: add unit tests for nlp module
 2022-10-13 17:10:47 - fix: handle empty input gracefully
+2022-10-13 15:26:43 - chore: update requirements.txt
