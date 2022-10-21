@@ -1537,3 +1537,4 @@
 2022-10-17 17:55:01 - feat: support user sessions
 2022-10-17 09:27:02 - docs: add installation guide
 2022-10-21 13:54:15 - feat: add logging support
+2022-10-21 11:39:37 - fix: update response parser
