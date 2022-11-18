@@ -1556,3 +1556,4 @@
 2022-11-14 13:11:34 - fix: update response parser
 2022-11-14 12:29:44 - test: add unit tests for nlp module
 2022-11-14 17:41:36 - chore: update dependencies
+2022-11-18 09:20:26 - fix: typo in README
