@@ -1585,3 +1585,4 @@
 2022-12-20 16:55:53 - docs: update usage examples
 2022-12-24 15:12:52 - test: add unit tests for nlp module
 2022-12-28 19:06:41 - docs: update usage examples
+2022-12-28 12:08:48 - fix: typo in README
