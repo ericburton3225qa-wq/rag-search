@@ -1587,3 +1587,4 @@
 2022-12-28 19:06:41 - docs: update usage examples
 2022-12-28 12:08:48 - fix: typo in README
 2022-12-28 15:36:52 - feat: support user sessions
+2022-12-28 18:48:12 - fix: update response parser
