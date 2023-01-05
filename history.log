@@ -1592,3 +1592,4 @@
 2023-01-01 18:06:21 - chore: update dependencies
 2023-01-05 14:46:35 - fix: update response parser
 2023-01-05 09:52:06 - feat: add initial function
+2023-01-05 13:58:34 - test: add unit tests for nlp module
