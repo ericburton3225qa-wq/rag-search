@@ -1603,3 +1603,4 @@
 2023-01-17 18:53:56 - docs: add installation guide
 2023-01-17 11:25:42 - refactor: clean up utils
 2023-01-17 20:48:55 - fix: update response parser
+2023-01-17 20:12:11 - feat: add initial function
