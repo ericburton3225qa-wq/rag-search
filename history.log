@@ -1623,3 +1623,4 @@
 2023-02-10 12:05:38 - feat: support user sessions
 2023-02-14 18:26:17 - refactor: optimize message handling
 2023-02-14 16:28:27 - test: add unit tests for nlp module
+2023-02-14 11:57:13 - docs: add installation guide
