@@ -1643,3 +1643,4 @@
 2023-03-10 14:32:43 - fix: update response parser
 2023-03-10 20:26:47 - fix: typo in README
 2023-03-10 10:25:55 - feat: improve training pipeline
+2023-03-14 15:24:05 - docs: add installation guide
