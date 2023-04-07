@@ -1659,3 +1659,4 @@
 2023-04-03 17:26:12 - feat: add initial function
 2023-04-03 11:02:33 - feat: improve training pipeline
 2023-04-03 13:51:45 - chore: update requirements.txt
+2023-04-07 13:01:12 - test: add unit tests for nlp module
