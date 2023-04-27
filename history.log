@@ -1676,3 +1676,4 @@
 2023-04-23 20:24:22 - fix: update response parser
 2023-04-23 10:09:22 - docs: update usage examples
 2023-04-27 13:09:37 - fix: handle empty input gracefully
+2023-04-27 13:56:37 - fix: typo in README
