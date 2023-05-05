@@ -1684,3 +1684,4 @@
 2023-05-01 09:15:42 - chore: update dependencies
 2023-05-01 20:47:52 - fix: handle empty input gracefully
 2023-05-05 17:49:06 - chore: update requirements.txt
+2023-05-05 12:38:20 - fix: update response parser
