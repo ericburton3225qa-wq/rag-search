@@ -1693,3 +1693,4 @@
 2023-05-13 19:29:07 - docs: update usage examples
 2023-05-13 10:48:26 - chore: update requirements.txt
 2023-05-17 19:37:47 - fix: update response parser
+2023-05-17 12:58:33 - feat: add initial function
