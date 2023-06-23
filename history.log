@@ -1717,3 +1717,4 @@
 2023-06-14 09:41:56 - feat: add initial function
 2023-06-14 20:28:31 - chore: update dependencies
 2023-06-18 20:14:59 - refactor: optimize message handling
+2023-06-22 17:19:23 - test: add unit tests for nlp module
