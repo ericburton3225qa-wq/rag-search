@@ -1725,3 +1725,4 @@
 2023-06-26 12:55:07 - test: add unit tests for nlp module
 2023-06-26 14:30:22 - test: add unit tests for nlp module
 2023-06-30 20:54:15 - feat: add initial function
+2023-06-30 17:17:31 - fix: handle empty input gracefully
