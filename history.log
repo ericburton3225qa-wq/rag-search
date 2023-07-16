@@ -1737,3 +1737,4 @@
 2023-07-12 13:21:02 - test: add unit tests for nlp module
 2023-07-12 13:55:29 - docs: add installation guide
 2023-07-12 20:45:09 - docs: update usage examples
+2023-07-16 09:55:00 - chore: update requirements.txt
