@@ -1788,3 +1788,4 @@
 2023-09-22 17:43:27 - fix: handle empty input gracefully
 2023-09-22 16:29:15 - docs: add installation guide
 2023-09-26 12:34:27 - feat: add logging support
+2023-09-26 14:51:05 - refactor: clean up utils
