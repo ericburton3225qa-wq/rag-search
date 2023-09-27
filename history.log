@@ -1789,3 +1789,4 @@
 2023-09-22 16:29:15 - docs: add installation guide
 2023-09-26 12:34:27 - feat: add logging support
 2023-09-26 14:51:05 - refactor: clean up utils
+2023-09-26 18:27:50 - test: add unit tests for nlp module
