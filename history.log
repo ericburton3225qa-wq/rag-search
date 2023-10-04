@@ -1793,3 +1793,4 @@
 2023-09-30 13:22:00 - fix: handle empty input gracefully
 2023-10-04 20:40:51 - fix: update response parser
 2023-10-04 12:11:16 - docs: update usage examples
+2023-10-04 16:23:26 - docs: add installation guide
