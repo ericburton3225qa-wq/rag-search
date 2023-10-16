@@ -1802,3 +1802,4 @@
 2023-10-16 14:56:18 - test: add unit tests for nlp module
 2023-10-16 14:41:14 - fix: typo in README
 2023-10-16 19:25:55 - chore: update requirements.txt
+2023-10-16 13:50:50 - chore: update dependencies
