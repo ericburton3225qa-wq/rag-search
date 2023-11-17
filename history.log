@@ -1828,3 +1828,4 @@
 2023-11-17 14:24:30 - refactor: optimize message handling
 2023-11-17 16:48:42 - refactor: optimize message handling
 2023-11-17 11:12:26 - fix: handle empty input gracefully
+2023-11-17 12:29:28 - refactor: clean up utils
