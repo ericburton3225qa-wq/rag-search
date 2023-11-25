@@ -1834,3 +1834,4 @@
 2023-11-21 12:42:51 - fix: update response parser
 2023-11-21 09:33:20 - docs: update usage examples
 2023-11-25 11:24:03 - feat: add logging support
+2023-11-25 12:25:59 - feat: add initial function
