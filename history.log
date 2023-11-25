@@ -1833,3 +1833,4 @@
 2023-11-21 14:48:45 - chore: update dependencies
 2023-11-21 12:42:51 - fix: update response parser
 2023-11-21 09:33:20 - docs: update usage examples
+2023-11-25 11:24:03 - feat: add logging support
