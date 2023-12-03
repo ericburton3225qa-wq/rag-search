@@ -1839,3 +1839,4 @@
 2023-11-29 15:14:21 - chore: update dependencies
 2023-11-29 10:19:45 - fix: update response parser
 2023-11-29 13:16:18 - docs: add installation guide
+2023-12-03 12:31:09 - test: add unit tests for nlp module
