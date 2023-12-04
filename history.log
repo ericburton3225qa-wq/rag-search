@@ -1840,3 +1840,4 @@
 2023-11-29 10:19:45 - fix: update response parser
 2023-11-29 13:16:18 - docs: add installation guide
 2023-12-03 12:31:09 - test: add unit tests for nlp module
+2023-12-03 19:00:10 - test: extend test coverage
