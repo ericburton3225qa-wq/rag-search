@@ -1845,3 +1845,4 @@
 2023-12-07 18:57:39 - feat: support user sessions
 2023-12-07 19:33:42 - fix: handle empty input gracefully
 2023-12-11 19:39:38 - chore: update dependencies
+2023-12-11 16:34:10 - fix: update response parser
