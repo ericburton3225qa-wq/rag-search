@@ -1848,3 +1848,4 @@
 2023-12-11 16:34:10 - fix: update response parser
 2023-12-11 10:19:32 - test: add unit tests for nlp module
 2023-12-11 20:24:39 - feat: add initial function
+2023-12-15 16:06:00 - feat: support user sessions
