@@ -1853,3 +1853,4 @@
 2023-12-15 15:54:38 - feat: add initial function
 2023-12-15 12:28:52 - refactor: clean up utils
 2023-12-19 13:58:03 - chore: update requirements.txt
+2023-12-19 10:21:38 - fix: update response parser
