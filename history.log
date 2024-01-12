@@ -1869,3 +1869,4 @@
 2024-01-08 15:31:17 - refactor: clean up utils
 2024-01-08 17:13:39 - feat: support user sessions
 2024-01-12 11:18:42 - feat: support user sessions
+2024-01-12 11:04:00 - feat: add logging support
