@@ -1880,3 +1880,4 @@
 2024-01-24 17:11:07 - test: extend test coverage
 2024-01-24 10:50:00 - fix: typo in README
 2024-01-24 10:11:37 - chore: update requirements.txt
+2024-01-28 20:58:40 - fix: update response parser
