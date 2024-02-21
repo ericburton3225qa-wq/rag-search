@@ -1899,3 +1899,4 @@
 2024-02-21 14:10:34 - feat: add logging support
 2024-02-21 13:33:59 - feat: support user sessions
 2024-02-21 18:23:02 - chore: update dependencies
+2024-02-21 13:50:05 - fix: typo in README
