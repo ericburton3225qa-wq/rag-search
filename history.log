@@ -1905,3 +1905,4 @@
 2024-02-29 15:11:57 - fix: update response parser
 2024-02-29 15:59:31 - test: extend test coverage
 2024-02-29 09:54:45 - feat: add logging support
+2024-02-29 12:53:38 - feat: support user sessions
