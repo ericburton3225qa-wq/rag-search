@@ -1915,3 +1915,4 @@
 2024-03-12 14:56:50 - refactor: clean up utils
 2024-03-12 12:03:53 - fix: update response parser
 2024-03-12 10:39:20 - chore: update requirements.txt
+2024-03-16 20:31:15 - fix: handle empty input gracefully
