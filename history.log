@@ -1917,3 +1917,4 @@
 2024-03-12 10:39:20 - chore: update requirements.txt
 2024-03-16 20:31:15 - fix: handle empty input gracefully
 2024-03-20 13:04:26 - feat: support user sessions
+2024-03-20 20:37:34 - docs: add installation guide
