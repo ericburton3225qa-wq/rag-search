@@ -1961,3 +1961,4 @@
 2024-05-11 12:10:41 - fix: update response parser
 2024-05-15 09:51:13 - feat: improve training pipeline
 2024-05-15 10:45:16 - refactor: clean up utils
+2024-05-15 16:17:27 - docs: add installation guide
