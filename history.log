@@ -1963,3 +1963,4 @@
 2024-05-15 10:45:16 - refactor: clean up utils
 2024-05-15 16:17:27 - docs: add installation guide
 2024-05-19 10:28:07 - chore: update requirements.txt
+2024-05-19 17:12:15 - feat: support user sessions
