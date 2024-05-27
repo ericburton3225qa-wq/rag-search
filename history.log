@@ -1968,3 +1968,4 @@
 2024-05-23 17:46:21 - fix: typo in README
 2024-05-23 19:46:17 - feat: improve training pipeline
 2024-05-27 17:21:23 - docs: update usage examples
+2024-05-27 11:02:05 - fix: handle empty input gracefully
