@@ -1997,3 +1997,4 @@
 2024-07-06 15:31:51 - chore: update dependencies
 2024-07-10 15:39:18 - feat: add logging support
 2024-07-10 18:19:21 - fix: typo in README
+2024-07-10 15:48:30 - refactor: optimize message handling
