@@ -2013,3 +2013,4 @@
 2024-07-30 12:37:51 - docs: update usage examples
 2024-07-30 12:32:50 - feat: add initial function
 2024-07-30 12:42:26 - feat: improve training pipeline
+2024-08-03 20:23:23 - feat: add logging support
