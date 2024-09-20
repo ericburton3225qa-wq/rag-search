@@ -2047,3 +2047,4 @@
 2024-09-16 14:23:16 - test: add unit tests for nlp module
 2024-09-20 13:14:53 - fix: update response parser
 2024-09-20 18:57:26 - refactor: optimize message handling
+2024-09-20 12:58:48 - test: add unit tests for nlp module
