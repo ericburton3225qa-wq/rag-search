@@ -2050,3 +2050,4 @@
 2024-09-20 12:58:48 - test: add unit tests for nlp module
 2024-09-20 10:23:47 - chore: update requirements.txt
 2024-09-24 12:53:08 - fix: update response parser
+2024-09-24 19:39:11 - docs: add installation guide
