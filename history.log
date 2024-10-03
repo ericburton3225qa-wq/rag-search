@@ -2056,3 +2056,4 @@
 2024-09-28 09:50:55 - chore: update dependencies
 2024-10-02 15:27:52 - feat: add initial function
 2024-10-02 11:24:51 - chore: update dependencies
+2024-10-02 18:43:54 - test: add unit tests for nlp module
