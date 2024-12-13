@@ -2109,3 +2109,4 @@
 2024-12-09 12:43:40 - test: add unit tests for nlp module
 2024-12-09 14:36:28 - feat: add logging support
 2024-12-13 16:05:12 - fix: handle empty input gracefully
+2024-12-13 12:38:26 - fix: typo in README
