@@ -2112,3 +2112,4 @@
 2024-12-13 12:38:26 - fix: typo in README
 2024-12-13 12:44:36 - docs: update usage examples
 2024-12-13 17:46:25 - refactor: optimize message handling
+2024-12-17 12:29:15 - feat: support user sessions
