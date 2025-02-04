@@ -2146,3 +2146,4 @@
 2025-01-30 18:59:22 - test: extend test coverage
 2025-01-30 14:23:54 - docs: update usage examples
 2025-01-30 17:03:48 - chore: update dependencies
+2025-02-03 20:25:39 - feat: support user sessions
