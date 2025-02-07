@@ -2152,3 +2152,4 @@
 2025-02-03 19:07:42 - chore: update requirements.txt
 2025-02-07 18:49:47 - fix: handle empty input gracefully
 2025-02-07 18:10:39 - fix: typo in README
+2025-02-07 10:04:41 - feat: add logging support
