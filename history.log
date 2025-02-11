@@ -2154,3 +2154,4 @@
 2025-02-07 18:10:39 - fix: typo in README
 2025-02-07 10:04:41 - feat: add logging support
 2025-02-11 16:04:53 - fix: update response parser
+2025-02-11 13:07:11 - docs: update usage examples
