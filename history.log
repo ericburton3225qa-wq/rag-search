@@ -2162,3 +2162,4 @@
 2025-02-19 15:24:13 - feat: add logging support
 2025-02-19 19:52:01 - chore: update dependencies
 2025-02-19 09:25:44 - test: add unit tests for nlp module
+2025-02-19 12:16:49 - fix: update response parser
