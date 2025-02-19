@@ -2161,3 +2161,4 @@
 2025-02-15 12:23:19 - feat: add initial function
 2025-02-19 15:24:13 - feat: add logging support
 2025-02-19 19:52:01 - chore: update dependencies
+2025-02-19 09:25:44 - test: add unit tests for nlp module
