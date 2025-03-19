@@ -2183,3 +2183,4 @@
 2025-03-19 14:13:28 - test: extend test coverage
 2025-03-19 11:16:27 - docs: add installation guide
 2025-03-19 11:41:11 - test: add unit tests for nlp module
+2025-03-19 11:08:32 - feat: support user sessions
