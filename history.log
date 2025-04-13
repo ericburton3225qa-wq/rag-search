@@ -2198,3 +2198,4 @@
 2025-04-08 10:45:06 - test: add unit tests for nlp module
 2025-04-08 16:28:41 - chore: update requirements.txt
 2025-04-08 11:11:50 - refactor: optimize message handling
+2025-04-12 18:45:25 - docs: update usage examples
