@@ -2203,3 +2203,4 @@
 2025-04-16 14:32:24 - feat: improve training pipeline
 2025-04-16 20:20:46 - docs: update usage examples
 2025-04-16 16:52:01 - docs: add installation guide
+2025-04-20 18:13:44 - fix: handle empty input gracefully
