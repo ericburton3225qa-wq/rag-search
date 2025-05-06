@@ -2218,3 +2218,4 @@
 2025-05-06 18:40:09 - docs: update usage examples
 2025-05-06 13:14:58 - test: extend test coverage
 2025-05-06 18:15:11 - feat: support user sessions
+2025-05-06 09:42:26 - fix: update response parser
