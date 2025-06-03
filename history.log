@@ -2238,3 +2238,4 @@
 2025-05-30 13:45:22 - feat: support user sessions
 2025-05-30 14:20:31 - fix: handle empty input gracefully
 2025-06-03 11:20:29 - fix: typo in README
+2025-06-03 12:33:13 - test: add unit tests for nlp module
