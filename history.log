@@ -2272,3 +2272,4 @@
 2025-07-13 10:54:25 - test: add unit tests for nlp module
 2025-07-17 09:13:49 - feat: add initial function
 2025-07-17 09:07:50 - feat: add initial function
+2025-07-17 19:55:14 - feat: support user sessions
