@@ -2275,3 +2275,4 @@
 2025-07-17 19:55:14 - feat: support user sessions
 2025-07-17 12:38:24 - fix: handle empty input gracefully
 2025-07-21 11:40:39 - chore: update requirements.txt
+2025-07-21 17:28:12 - docs: update usage examples
