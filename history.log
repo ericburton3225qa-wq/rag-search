@@ -2278,3 +2278,4 @@
 2025-07-21 17:28:12 - docs: update usage examples
 2025-07-21 13:07:51 - feat: support user sessions
 2025-07-21 17:56:18 - fix: handle empty input gracefully
+2025-07-25 13:16:24 - test: add unit tests for nlp module
