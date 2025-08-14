@@ -2291,3 +2291,4 @@
 2025-08-06 20:57:36 - feat: add initial function
 2025-08-10 13:18:33 - fix: handle empty input gracefully
 2025-08-14 11:06:35 - feat: support user sessions
+2025-08-14 13:40:40 - refactor: clean up utils
