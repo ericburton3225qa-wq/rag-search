@@ -2295,3 +2295,4 @@
 2025-08-14 09:10:39 - refactor: clean up utils
 2025-08-14 12:03:09 - feat: add logging support
 2025-08-18 10:37:18 - docs: update usage examples
+2025-08-18 15:55:51 - fix: handle empty input gracefully
