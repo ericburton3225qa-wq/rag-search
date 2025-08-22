@@ -2299,3 +2299,4 @@
 2025-08-18 11:51:25 - test: add unit tests for nlp module
 2025-08-18 17:16:51 - test: add unit tests for nlp module
 2025-08-22 10:49:49 - feat: improve training pipeline
+2025-08-22 11:14:25 - test: extend test coverage
