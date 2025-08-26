@@ -2304,3 +2304,4 @@
 2025-08-26 15:46:38 - test: add unit tests for nlp module
 2025-08-26 12:17:59 - fix: update response parser
 2025-08-26 10:55:49 - docs: add installation guide
+2025-08-26 11:15:28 - feat: improve training pipeline
