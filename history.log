@@ -2317,3 +2317,4 @@
 2025-09-11 13:19:35 - test: add unit tests for nlp module
 2025-09-11 17:38:28 - refactor: optimize message handling
 2025-09-15 10:26:08 - test: extend test coverage
+2025-09-15 12:36:49 - refactor: clean up utils
