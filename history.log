@@ -2321,3 +2321,4 @@
 2025-09-15 16:21:20 - feat: add logging support
 2025-09-19 15:13:05 - docs: update usage examples
 2025-09-19 12:35:19 - test: add unit tests for nlp module
+2025-09-19 20:27:15 - fix: typo in README
