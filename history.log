@@ -2337,3 +2337,4 @@
 2025-10-09 17:54:11 - docs: update usage examples
 2025-10-09 13:20:18 - test: extend test coverage
 2025-10-13 11:24:17 - test: add unit tests for nlp module
+2025-10-13 10:43:05 - fix: handle empty input gracefully
