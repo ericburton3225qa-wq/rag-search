@@ -2346,3 +2346,4 @@
 2025-10-17 09:00:27 - docs: update usage examples
 2025-10-21 19:45:10 - feat: support user sessions
 2025-10-21 13:30:36 - refactor: clean up utils
+2025-10-21 12:59:39 - test: add unit tests for nlp module
