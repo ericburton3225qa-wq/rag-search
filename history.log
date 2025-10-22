@@ -2344,3 +2344,4 @@
 2025-10-17 19:36:45 - fix: handle empty input gracefully
 2025-10-17 15:18:31 - test: add unit tests for nlp module
 2025-10-17 09:00:27 - docs: update usage examples
+2025-10-21 19:45:10 - feat: support user sessions
