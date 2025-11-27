@@ -2372,3 +2372,4 @@
 2025-11-22 09:08:37 - feat: support user sessions
 2025-11-26 20:32:29 - test: add unit tests for nlp module
 2025-11-26 16:10:26 - test: extend test coverage
+2025-11-26 16:20:53 - fix: typo in README
