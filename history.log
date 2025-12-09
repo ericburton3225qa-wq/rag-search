@@ -2378,3 +2378,4 @@
 2025-12-04 18:46:13 - docs: add installation guide
 2025-12-04 17:57:17 - feat: add logging support
 2025-12-04 18:17:54 - test: add unit tests for nlp module
+2025-12-08 17:10:32 - fix: update response parser
